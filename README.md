@@ -13,6 +13,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
   + **Google Icons:** Para iconos personalizados.
  
   ### Vista Previa del Proyecto
-
+ 
+  
   ### Contacto
   Cristal Reyes: [Mi Correo](cristalcorderoreyes.05@gmail.com) 💜
