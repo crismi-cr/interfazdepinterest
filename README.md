@@ -14,7 +14,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
  
   ### Vista Previa del Proyecto
   ![Demo](/imagenes/vp.PNG)
-  + Link [Proyecto Pinterest](https://interfazdepinterest-rouge.vercel.app/)
+  * [Proyecto Pinterest](https://interfazdepinterest-rouge.vercel.app/)
   
   ### Contacto
   Cristal Reyes: [Mi Correo](cristalcorderoreyes.05@gmail.com) 💜
